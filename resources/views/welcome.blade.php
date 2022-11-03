@@ -120,7 +120,7 @@
                                 <span>customer_email </span>
                             </td>
                             <td>
-                                :<input type="text" name="customer_email" value="{{old('customer_email')}}" placeholder="Enter customer_email">
+                                :<input type="email" name="customer_email" value="{{old('customer_email')}}" placeholder="Enter customer_email">
                             </td>
                         </tr>
 
